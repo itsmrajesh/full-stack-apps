@@ -14,3 +14,4 @@ This is an Angular App which Performs CRUD Operations over HTTPS by using http c
 - Client App (Angular)
 - Server App (Which is an REST API App-Spring Boot App)
 - Database: MongoDB 
+<hr>
